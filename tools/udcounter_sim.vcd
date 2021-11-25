@@ -1,0 +1,281 @@
+$version
+llhd-sim 0.16.0
+$end
+$timescale 1ps $end
+$scope module @updowncounter_tb $end
+$var wire 1 ! clk $end
+$var wire 1 " reset $end
+$var wire 1 # up_down $end
+$var wire 4 $ counter $end
+$scope module @up_down_counter_param1 $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var wire 1 ' up_down $end
+$var wire 4 ( counter $end
+$var wire 4 ) counter_up_down $end
+$scope module %up_down_counter_param1_always_199_1 $end
+$var wire 1 * clk $end
+$var wire 1 + reset $end
+$var wire 1 , up_down $end
+$var wire 4 - counter_up_down $end
+$upscope $end
+$upscope $end
+$scope module %updowncounter_tb_initial_63_0 $end
+$var wire 1 . clk $end
+$upscope $end
+$scope module %updowncounter_tb_initial_112_0 $end
+$var wire 1 / reset $end
+$var wire 1 0 up_down $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+b0 )
+b0 -
+b0 #
+b0 '
+b0 ,
+b0 0
+b0 "
+b0 &
+b0 +
+b0 /
+b0 $
+b0 (
+b0 !
+b0 %
+b0 *
+b0 .
+$end
+#0
+b1 "
+b1 &
+b1 +
+b1 /
+#5000
+b1 !
+b1 %
+b1 *
+b1 .
+#10000
+b0 !
+b0 %
+b0 *
+b0 .
+#15000
+b1 !
+b1 %
+b1 *
+b1 .
+#20000
+b0 !
+b0 %
+b0 *
+b0 .
+b0 "
+b0 &
+b0 +
+b0 /
+#25000
+b1 $
+b1 (
+b1 !
+b1 %
+b1 *
+b1 .
+b1 )
+b1 -
+#30000
+b0 !
+b0 %
+b0 *
+b0 .
+#35000
+b10 $
+b10 (
+b10 )
+b10 -
+b1 !
+b1 %
+b1 *
+b1 .
+#40000
+b0 !
+b0 %
+b0 *
+b0 .
+#45000
+b11 )
+b11 -
+b11 $
+b11 (
+b1 !
+b1 %
+b1 *
+b1 .
+#50000
+b0 !
+b0 %
+b0 *
+b0 .
+#55000
+b100 $
+b100 (
+b1 !
+b1 %
+b1 *
+b1 .
+b100 )
+b100 -
+#60000
+b0 !
+b0 %
+b0 *
+b0 .
+#65000
+b1 !
+b1 %
+b1 *
+b1 .
+b101 $
+b101 (
+b101 )
+b101 -
+#70000
+b0 !
+b0 %
+b0 *
+b0 .
+#75000
+b110 )
+b110 -
+b1 !
+b1 %
+b1 *
+b1 .
+b110 $
+b110 (
+#80000
+b0 !
+b0 %
+b0 *
+b0 .
+#85000
+b111 $
+b111 (
+b111 )
+b111 -
+b1 !
+b1 %
+b1 *
+b1 .
+#90000
+b0 !
+b0 %
+b0 *
+b0 .
+#95000
+b1 !
+b1 %
+b1 *
+b1 .
+b1000 $
+b1000 (
+b1000 )
+b1000 -
+#100000
+b0 !
+b0 %
+b0 *
+b0 .
+#105000
+b1 !
+b1 %
+b1 *
+b1 .
+b1001 )
+b1001 -
+b1001 $
+b1001 (
+#110000
+b0 !
+b0 %
+b0 *
+b0 .
+#115000
+b1010 $
+b1010 (
+b1010 )
+b1010 -
+b1 !
+b1 %
+b1 *
+b1 .
+#120000
+b0 !
+b0 %
+b0 *
+b0 .
+#125000
+b1011 $
+b1011 (
+b1011 )
+b1011 -
+b1 !
+b1 %
+b1 *
+b1 .
+#130000
+b0 !
+b0 %
+b0 *
+b0 .
+#135000
+b1100 $
+b1100 (
+b1 !
+b1 %
+b1 *
+b1 .
+b1100 )
+b1100 -
+#140000
+b0 !
+b0 %
+b0 *
+b0 .
+#145000
+b1 !
+b1 %
+b1 *
+b1 .
+b1101 )
+b1101 -
+b1101 $
+b1101 (
+#150000
+b0 !
+b0 %
+b0 *
+b0 .
+#155000
+b1110 $
+b1110 (
+b1110 )
+b1110 -
+b1 !
+b1 %
+b1 *
+b1 .
+#160000
+b0 !
+b0 %
+b0 *
+b0 .
+#165000
+b1111 )
+b1111 -
+b1 !
+b1 %
+b1 *
+b1 .
